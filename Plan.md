@@ -8,3 +8,4 @@ A digital vending-machine menu that lets you see the machine's current stock fro
 How might we help students check vending-machine availability without having to physically walk to the machine?
 
  -->
+ Change idea
